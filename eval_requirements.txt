@@ -1,0 +1,9 @@
+numpy>=1.13.3
+scipy
+opencv-python==4.8.0.76
+open3d>=0.18.0
+pyrealsense2==2.53.1.4623
+pin==3.4.0
+pynput
+zmq
+pin

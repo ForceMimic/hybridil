@@ -1,0 +1,18 @@
+{
+    "name": "dp_eval",
+    "model_path": "logs/dp_ftout/20240909201936/models/model_epoch_1000.pth",
+    "robot_addr1": "192.168.2.100",
+    "robot_addr2": "192.168.2.34",
+    "urdf_path": "devices/peel_flexiv.urdf",
+    "l515_serial": "f0172289",
+    "port": 12345,
+    "pc_num": 10000,
+    "voxel_size": 0.001,
+    "clip_object": true,
+    "clip_pyft": true,
+    "clip_base": true,
+    "obs_horizon": 1,
+    "act_horizon": 10,
+    "force_threshold": 6,
+    "force_num_threshold": 0.2
+}
