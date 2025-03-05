@@ -38,7 +38,7 @@ pip install -r eval_requirements.txt
 ```
 
 ## Data Preparation
-Please refer to [ForceCapture](https://github.com/ForceMimic/forcecapture) to collect and process the data.
+Please refer to [ForceCapture](https://github.com/ForceMimic/forcecapture) to collect and process the data. You can download our processed dataset from [Google Drive](https://drive.google.com/drive/folders/1sKqOj9tO-luddM8XIaJvTFbRSEZet7C3?usp=sharing).
 
 ## Policy Training
 ```bash
